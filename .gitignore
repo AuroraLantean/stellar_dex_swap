@@ -2,6 +2,7 @@
 .soroban
 .stellar
 Makefile
+contracts/dex/test_snapshots/
 
 .DS_Store
 debug/
