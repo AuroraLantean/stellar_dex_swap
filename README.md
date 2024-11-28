@@ -1,1 +1,9 @@
-# stellar_dex_swap
+# Soroban Project
+
+```
+cargo test
+stellar contract build
+```
+
+https://stellar.expert/
+https://testnet.stellarchain.io
